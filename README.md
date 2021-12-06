@@ -22,7 +22,7 @@ It can be found in the file named _ML_A2.pdf_
 It can be found in the file named _ML_A2_Theory.pdf_
 
 ## Datasets
-All the necessary datasets have been uploaded
+All the necessary datasets have been provided with necessary links in the problem statement file
 
 ## Run
 To run the code: 
